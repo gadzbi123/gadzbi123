@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Golang and linux scripting
-- 🔭 I’m currently working in Hitachi Energy on auth application and E2E testing
+- 🌱 I’m currently appling python for linux scripting
+- 🔭 I’m currently working on testing software solutions and looking for a job
+- 👯 I’m looking to collaborate on linux and open source software
 - ⚡ Fun fact: As of 14.05.24 I have [tokei'ed](https://github.com/XAMPPRocky/tokei) over 7.6 million lines of code and over 10 million lines in my repos. 
   Some of this number may be inflated by code that is not mine 🤣 but then again, I don't have all the code I have written so  🏃🏻‍♂️
   It's probably some rookie numbers 👶🏻, but I have been doing this for 4 years now ⏳. Check it out:
